@@ -29,7 +29,5 @@ int main(void)
     cout << "Size of long int is "  <<  sizeof(varLongInt)  << endl; //long int
     cout << "Size of short int is " <<  sizeof(varShortInt) << endl; //short int
 
-
-
     return 0;
 }
