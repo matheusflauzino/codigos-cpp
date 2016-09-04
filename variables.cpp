@@ -1,3 +1,8 @@
+/**
+* Author/Autor: Matheus Flauzino
+* Date/Data: 09.04.2016 - 04/09/2016
+**/
+
 #include <iostream>
 
 using namespace std;
